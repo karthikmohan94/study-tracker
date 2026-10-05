@@ -60,12 +60,12 @@ study-task-tracker/
 
 ### 1. Clone the repository
 
-```bash
-git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY.git
-cd YOUR-REPOSITORY
-```
+Use the **Code** button at the top of this GitHub repository to copy its URL, then run:
 
-Replace `YOUR-USERNAME` and `YOUR-REPOSITORY` with the correct GitHub names.
+```bash
+git clone <copied-repository-url>
+cd study-task-tracker
+
 
 ### 2. Create a virtual environment
 
